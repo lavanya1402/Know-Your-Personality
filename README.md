@@ -19,4 +19,18 @@ This interactive program allows users to learn more about their personality base
 3. **Personality Tribe**: Based on your age, it assigns you to one of the personality tribes: `Young Explorer`, `Adventurer`, or `Wise Owl`.
 
 ## Example
-**Input**:  
+**Input**:
+
+
+## Run locally
+
+```bash
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+python main.py
+```
+
+## License
+
+MIT, see [LICENSE](LICENSE). Built by [Lavanya Srivastava](https://github.com/lavanya1402), Lavanya AI Consultancy.
